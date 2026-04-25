@@ -40,16 +40,27 @@ CGPA = Total Grade Points / Total Credits
 📈 Grading Policy Used
 
 Marks Range| GPA
+
 80 – 100| 4.00
+
 75 – 79| 3.75
+
 70 – 74| 3.50
+
 65 – 69| 3.25
+
 60 – 64| 3.00
+
 55 – 59| 2.75
+
 50 – 54| 2.50
+
 45 – 49| 2.25
+
 40 – 44| 2.00
+
 Below 40| 0.00
+
 
 ---
 
